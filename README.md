@@ -1,9 +1,5 @@
 # 🍼 Banco de Leche Materna - Backend
 
-![GitHub repo size](https://img.shields.io/github/repo-size/resgem585/banco_de_leche-back?color=green)
-![GitHub issues](https://img.shields.io/github/issues/resgem585/banco_de_leche-back?color=green)
-
-
 Este es el **backend** del sistema de gestión para el Banco de Leche Materna, diseñado para administrar información sobre donantes, neonatos y leche materna de manera eficiente y segura. 🚀
 
 ## ✨ Características Principales
