@@ -1,8 +1,8 @@
 # 🍼 Banco de Leche Materna - Backend
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Raziel-jm-code/banco_de_leche-backend)
-![GitHub issues](https://img.shields.io/github/issues/Raziel-jm-code/banco_de_leche-backend)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Raziel-jm-code/banco_de_leche-backend)
+![GitHub repo size](https://img.shields.io/github/repo-size/resgem585/banco_de_leche-back?color=green)
+![GitHub issues](https://img.shields.io/github/issues/resgem585/banco_de_leche-back?color=green)
+
 
 Este es el **backend** del sistema de gestión para el Banco de Leche Materna, diseñado para administrar información sobre donantes, neonatos y leche materna de manera eficiente y segura. 🚀
 
